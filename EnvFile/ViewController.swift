@@ -11,7 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        let env = ProcessInfo.processInfo.environment
+        print(#function, env["TWITTER_CONSUMER_KEY"], env["TWITTER_CONSUMER_SECRET"])
     }
 
 
