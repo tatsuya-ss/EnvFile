@@ -13,6 +13,8 @@
 		757B8D022767702800C8DC5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 757B8D002767702800C8DC5F /* Main.storyboard */; };
 		757B8D042767702900C8DC5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 757B8D032767702900C8DC5F /* Assets.xcassets */; };
 		757B8D072767702900C8DC5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 757B8D052767702900C8DC5F /* LaunchScreen.storyboard */; };
+		757B8D0F2767755500C8DC5F /* .env in Resources */ = {isa = PBXBuildFile; fileRef = 757B8D0E2767755500C8DC5F /* .env */; };
+		757B8D112767755E00C8DC5F /* .env.sample in Resources */ = {isa = PBXBuildFile; fileRef = 757B8D102767755E00C8DC5F /* .env.sample */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		757B8D032767702900C8DC5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		757B8D062767702900C8DC5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		757B8D082767702900C8DC5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		757B8D0E2767755500C8DC5F /* .env */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .env; sourceTree = "<group>"; };
+		757B8D102767755E00C8DC5F /* .env.sample */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .env.sample; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				757B8D032767702900C8DC5F /* Assets.xcassets */,
 				757B8D052767702900C8DC5F /* LaunchScreen.storyboard */,
 				757B8D082767702900C8DC5F /* Info.plist */,
+				757B8D0E2767755500C8DC5F /* .env */,
+				757B8D102767755E00C8DC5F /* .env.sample */,
 			);
 			path = EnvFile;
 			sourceTree = "<group>";
@@ -128,6 +134,8 @@
 				757B8D072767702900C8DC5F /* LaunchScreen.storyboard in Resources */,
 				757B8D042767702900C8DC5F /* Assets.xcassets in Resources */,
 				757B8D022767702800C8DC5F /* Main.storyboard in Resources */,
+				757B8D112767755E00C8DC5F /* .env.sample in Resources */,
+				757B8D0F2767755500C8DC5F /* .env in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -4,3 +4,4 @@ Pods/*
 *xcdebugger
 xcschemes/*
 */Desktop/swift/SQL/SwiftAndPHPSample/Web/vendor/*
+EnvFile/.env
